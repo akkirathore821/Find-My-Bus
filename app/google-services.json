@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332084244223",
+    "project_id": "find-my-bus-2b2d8",
+    "storage_bucket": "find-my-bus-2b2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332084244223:android:1e9ecb51efea8610cc66ca",
+        "android_client_info": {
+          "package_name": "com.example.findmybus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332084244223-nu611a66j3qigalr4vjblq800v660dsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findmybus",
+            "certificate_hash": "e5d354d2e2ec8a4ff4f55c46a7fd20a43a045526"
+          }
+        },
+        {
+          "client_id": "332084244223-gt3cihou1n7a3ih656bj3auvsgh1rrh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhQXqnVMr_i59nDtoErDjBR06QTskwIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332084244223-gt3cihou1n7a3ih656bj3auvsgh1rrh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

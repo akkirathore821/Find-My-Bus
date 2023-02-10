@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMyBus</string>
+    <string name="Google_map_API_key" translatable="false">AIzaSyApHLte_iG9A8xTWA8SAQJ8lZDne5GmUTc</string>
+</resources>
